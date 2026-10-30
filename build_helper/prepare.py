@@ -178,7 +178,6 @@ def prepare(configs: dict[str, dict[str, Any]]) -> None:
                "1677875718.txt": "https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu-strict.txt",
                "1677875720.txt": "https://gist.githubusercontent.com/Ewpratten/a25ae63a7200c02c850fede2f32453cf/raw/b9318009399b99e822515d388b8458557d828c37/hosts-yt-ads",
                "1677875724.txt": "https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt",
-               "1677875725.txt": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/sections/anti_cookie.txt",
                "1677875726.txt": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
                "1677875727.txt": "https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts",
                "1677875728.txt": "https://winhelp2002.mvps.org/hosts.txt",
